@@ -3,12 +3,9 @@ A reactive Single-Page Instagram-Clone with some new features!!
 
 **No longer maintained. But it works**
 
----
-### 🛒 Launch your online store with [OwnStore](https://ownstore.dev).
----
 
-# Another Version
-**[PHP Version](https://github.com/yTakkar/Instagram-Clone)**
+
+
 
 # Quick liks
 1. [Requirements](#requirements)
@@ -21,8 +18,7 @@ Here's a video which will take you on a tour of this project.
 
 Note: Many improvements were done after recording this video.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/VBZD5lfvi4U/0.jpg)](https://www.youtube.com/watch?v=VBZD5lfvi4U)
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/VBZD5lfvi4U/0.jpg)]
 # Requirements
 1. [GraphicsMagick](http://www.graphicsmagick.org/) for Image-processing.
 
@@ -102,20 +98,7 @@ Many images used in the project belong to their respective creators/authors. No 
 
 **Thanks for reading**
 
-## Contributors
 
-### Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/yTakkar/React-Instagram-Clone-2.0/graphs/contributors"><img src="https://opencollective.com/react-instagram-clone-20/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/react-instagram-clone-20/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/react-instagram-clone-20"><img src="https://opencollective.com/react-instagram-clone-20/individuals.svg?width=890"></a>
 
 #### Organizations
 
